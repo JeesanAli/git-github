@@ -1,1 +1,2 @@
 Fourth Document, created in firstbranch.
+After merging in master branch I returned to firstbranch and wrote the second line.
